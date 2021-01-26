@@ -1,0 +1,2 @@
+Average Correct Search Results EMD: 19.0
+Average Correct Search Results MANHATTAN: 30.0
